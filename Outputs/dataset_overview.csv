@@ -1,8 +1,2 @@
-metric,value
-rows,891
-columns,13
-survived_yes,342
-survived_no,549
-missing_age,0
-missing_fare,0
-missing_embarked,0
+rows,columns,duplicate_rows
+891,12,0

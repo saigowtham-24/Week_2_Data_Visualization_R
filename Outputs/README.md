@@ -1,3 +1,3 @@
-# Outputs
+# Analysis Outputs
 
-CSV summaries and a session note included for preview. The current input was an already-cleaned CSV, so original pre-cleaning missingness cannot be reconstructed reliably. Run the R script in RStudio and replace these with its actual outputs before final submission.
+CSV files summarize the dataset, missing values, correlations, age-group patterns, and survival outcomes by sex and passenger class. `analysis_notes.txt` summarizes the preparation choices.
