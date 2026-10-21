@@ -1,0 +1,3 @@
+These chart and CSV deliverables were generated with Python from the existing cleaned Titanic CSV as a preview/equivalent output set.
+They are NOT outputs produced by running data_visualization_week2.R in R.
+Run the R script in RStudio to produce authentic R outputs and replace these files before final submission.

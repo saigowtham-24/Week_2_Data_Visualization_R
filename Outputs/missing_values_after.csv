@@ -1,0 +1,14 @@
+column,missing_count
+Survived,0
+Pclass,0
+Sex,0
+Age,0
+SibSp,0
+Parch,0
+Fare,0
+Embarked,0
+CabinKnown,0
+Age_minmax,0
+Fare_minmax,0
+Age_z,0
+Fare_z,0
